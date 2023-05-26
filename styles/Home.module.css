@@ -4,4 +4,24 @@
   width: 100%;
   color: white;
   font-family: "Roboto", sans-serif;
+  padding: 15vh 10vw 0 10vw;
+}
+
+.comingSoonLogo {
+  font-size: 70px;
+  text-align: center;
+}
+
+.comingSoonText {
+  font-size: 25px;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 5vh;
+}
+
+.cryingContainer {
+  width: 223px;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 0;
 }
