@@ -12,7 +12,7 @@ const Home: NextPage = () => {
       </Head>
       <h1 className={styles.comingSoonLogo}>Coming Soon</h1>
       <p className={styles.comingSoonText}>
-        Don't worry it'll be here before you know it
+        Don&apos;t worry it&apos;ll be here before you know it
       </p>
       <div className={styles.cryingContainer}>
         <Image src={crying} height={336} width={223} alt="crying waifu" />
